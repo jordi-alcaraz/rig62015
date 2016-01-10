@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 15px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: orange;
+}
+
+.bar:hover {
+  fill: orangered ;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+</style>
+<body>
+<head>
+  <title>Analysis</title>
+  <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+  <div id="header">		
+  </div>
+   <script>
+      $("#header").load("include_head.html");
+   </script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<div>
+<p>Select a new analysis from the list.</p>
+<select id="mySelect" onchange="select_csv()" >
+  <option value="csv/2001/Months_flights.csv">Flights per Month
+  <option value="csv/2001/NY_Months.csv">Flights per Month: New York
+  <option value="csv/2001/cf_by_dayofweek.csv">Cancelations by day of week 
+  <option value="csv/2001/cf_by_fromstate.csv">Cancelations by Departure State 
+  <option value="csv/2001/cf_by_tostate.csv">Cancelations by Arrival State
+  <option value="csv/2000/f_by_dayofweek.csv">Flights per day of week 2000
+  <option value="csv/2000/cf_by_dayofweek.csv">Cancelations by day of week 2000
+  <option value="csv/2000/cf_by_fromstate.csv">Cancelations by Departure State 2000
+  <option value="csv/2000/cf_by_tostate.csv">Cancelations by Arrival State 2000
+  <option value="csv/2002/f_by_dayofweek.csv">Flights per day of week 2002
+  <option value="csv/2002/cf_by_dayofweek.csv">Cancelations by day of week 2002
+  <option value="csv/2002/cf_by_fromstate.csv">Cancelations by Departure State 2002
+  <option value="csv/2002/cf_by_tostate.csv">Cancelations by Arrival State 2002
+</select>
+</div>
+
+<script>
+draw_initial();
+function select_csv()
+{
+	var x = document.getElementById("mySelect").value;
+	draw_all(x);
+}
+function draw_initial()
+{
+	draw_all("csv/2001/Months_flights.csv");
+}
+
+function draw_all(my_csv){
+	if(document.getElementById("bar_chart"))
+	{
+		document.getElementById("bar_chart").remove();
+	}
+	
+	d3.csv(my_csv, function(error, data) {
+		var margin = {top: 80, right: 50, bottom: 200, left: 50},
+		width = (data.length-1)*50 - margin.left - margin.right,
+		height = 800 - margin.top - margin.bottom;
+		var headers = d3.keys(data[0]);
+		var formatThousand = d3.format("s");
+
+		var x = d3.scale.ordinal()
+			.rangeRoundBands([0, width], .1);
+
+		var y = d3.scale.linear()
+			.range([height, 0]);
+
+		var xAxis = d3.svg.axis()
+			.scale(x)
+			.orient("bottom");
+
+		var yAxis = d3.svg.axis()
+			.scale(y)
+			.orient("left")
+			.tickFormat(formatThousand);
+
+		var tip = d3.tip()
+		  .attr('class', 'd3-tip')
+		  .offset([-10, 0])
+		  .html(function(d) {
+			return "<strong>"+headers[1]+": </strong> <span style='color:red'>" + d[headers[1]] + "</span>";
+		  })
+
+		var svg = d3.select("body").append("svg")
+			.attr("id", "bar_chart")
+			.attr("width", width + margin.left + margin.right)
+			.attr("height", height + margin.top + margin.bottom)
+		  .append("g")
+			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+		svg.call(tip);
+
+
+		  
+		  x.domain(data.map(function(d) { return d[headers[0]]; }));
+		  y.domain([0, d3.max(data, function(d) { return +d[headers[1]]; })]);
+		  console.log(d3.max(data, function(d) { return +d[headers[1]]; })); 
+		  svg.append("g")
+			  .attr("class", "x axis")
+			  .attr("transform", "translate(0," + height + ")")
+			  .call(xAxis)
+			  .selectAll("text")
+			  .style("text-anchor", "end")
+			  .attr("dx", "-.8em")
+			  .attr("dy", "-.55em")
+			  .attr("transform", "rotate(-90)" );
+			  
+		  svg.append("g")
+			  .attr("class", "y axis")
+			  .call(yAxis)
+			.append("text")
+			  .attr("transform", "rotate(-90)")
+			  .attr("y", 6)
+			  .attr("dy", ".71em")
+			  .style("text-anchor", "end")
+			  .text(headers[1]);
+
+		  svg.selectAll(".bar")
+			  .data(data)
+			.enter().append("rect")
+			  .attr("class", "bar")
+			  .attr("x", function(d) { return x(d[headers[0]]); })
+			  .attr("width", x.rangeBand())
+			  .attr("y", function(d) { return y(+d[headers[1]]); })
+			  .attr("height", function(d) { return height - y(+d[headers[1]]); })
+			  .on('mouseover', tip.show)
+			  .on('mouseout', tip.hide)
+	});
+
+
+}
+</script>
+</body>
+</html>

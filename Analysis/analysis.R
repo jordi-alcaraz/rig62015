@@ -47,7 +47,7 @@
 	    #Example to get csv for a variable obtained from one column and two conditional columns
 	    # cf_by_fromstate_byday is the name of the variable, "cf_by_fromstate_byday.csv" 
 	    # is the name of the target output.
-	  	write.csv(cf_by_fromstate_byday, file = "cf_by_fromstate_byday.csv", row.names = TRUE)
+	    #	write.csv(cf_by_fromstate_byday, file = "cf_by_fromstate_byday.csv", row.names = TRUE)
 
 	  	#Function used to obtain a csv from the special variable where we use the function multi.func()
 	    t_to_df_csv <- function(x,outputname,colname){

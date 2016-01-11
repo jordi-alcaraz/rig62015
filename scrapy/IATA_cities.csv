@@ -1,0 +1,709 @@
+State_code,State,City,IATA
+AK,Alaska,Adak Island,ADK
+AK,Alaska,Alakanuk,AUK
+AK,Alaska,Ambler,AFM
+AK,Alaska,Anaktuvuk Pass,AKP
+AK,Alaska,Anchorage,ANC
+AK,Alaska,Anchorage,MRI
+AK,Alaska,Anchorage,LHD
+AK,Alaska,Angoon,AGN
+AK,Alaska,Aniak,ANI
+AK,Alaska,Atqasuk,ATK
+AK,Alaska,Barrow,BRW
+AK,Alaska,Bethel,BET
+AK,Alaska,Buckland,BVK
+AK,Alaska,Chefornak,CFK
+AK,Alaska,Chevak,VAK
+AK,Alaska,Cold Bay,CDB
+AK,Alaska,Cordova,CDV
+AK,Alaska,Craig,CGA
+AK,Alaska,Deadhorse,SCC
+AK,Alaska,Delta Junction Ft Greely,BIG
+AK,Alaska,Dillingham,DLG
+AK,Alaska,Eek,EEK
+AK,Alaska,Elim,ELI
+AK,Alaska,Emmonak,ENM
+AK,Alaska,English Bay,KEB
+AK,Alaska,Fairbanks,FAI
+AK,Alaska,Fort Yukon,FYU
+AK,Alaska,Galbraith Lake,GBH
+AK,Alaska,Galena,GAL
+AK,Alaska,Gambell,GAM
+AK,Alaska,Golovin,N93
+AK,Alaska,Gulkana,GKN
+AK,Alaska,Gustavus,GST
+AK,Alaska,Haines,HNS
+AK,Alaska,Hollis,HYL
+AK,Alaska,Homer,HOM
+AK,Alaska,Hoonah,HNH
+AK,Alaska,Hooper Bay,HPB
+AK,Alaska,Huslia,HLA
+AK,Alaska,Huslia,HSL
+AK,Alaska,Iliamna,ILI
+AK,Alaska,Juneau,JNU
+AK,Alaska,Kake,KAE
+AK,Alaska,Kaktovik,BTI
+AK,Alaska,Kalskag,KLG
+AK,Alaska,Kaltag,KAL
+AK,Alaska,Kasigluk,Z09
+AK,Alaska,Kenai,ENA
+AK,Alaska,Ketchikan,KTN
+AK,Alaska,Kiana,IAN
+AK,Alaska,King Cove,KVC
+AK,Alaska,King Salmon,AKN
+AK,Alaska,Kipnuk,IIK
+AK,Alaska,Kivalina,KVL
+AK,Alaska,Klawock,AKW
+AK,Alaska,Kodiak,ADQ
+AK,Alaska,Kodiak,KDK
+AK,Alaska,Kodiak,T44
+AK,Alaska,Kongiganak,DUY
+AK,Alaska,Kotlik,2A9
+AK,Alaska,Kotzebue,OTZ
+AK,Alaska,Koyuk,KKA
+AK,Alaska,Kwethluk,KWT
+AK,Alaska,Kwigillingok,GGV
+AK,Alaska,Kwigillingok,A85
+AK,Alaska,Larsen Bay,2A3
+AK,Alaska,Manokotak,MBA
+AK,Alaska,Marshall,MDM
+AK,Alaska,Marshall,3A5
+AK,Alaska,Marshall,MLL
+AK,Alaska,McGrath,MCG
+AK,Alaska,Metlakatla,MTM
+AK,Alaska,Mountain Village,MOU
+AK,Alaska,Napakiak,WNA
+AK,Alaska,Newtok,EWU
+AK,Alaska,Noatak,WTK
+AK,Alaska,Nome,OME
+AK,Alaska,Noorvik,D76
+AK,Alaska,Noorvik,ORV
+AK,Alaska,Nuiqsut,AQT
+AK,Alaska,Nulato,NUL
+AK,Alaska,Nunapitchuk,16A
+AK,Alaska,Old Harbor,6R7
+AK,Alaska,Petersburg,PSG
+AK,Alaska,Pilot Station,0AK
+AK,Alaska,Point Hope,PHO
+AK,Alaska,Port Graham,PGM
+AK,Alaska,Port Heiden,PTH
+AK,Alaska,Port Lions,ORI
+AK,Alaska,Prospect Creek,PPC
+AK,Alaska,Quinhagak,AQH
+AK,Alaska,Russian Mission,RSH
+AK,Alaska,Sand Point,SDP
+AK,Alaska,Savoonga,SVA
+AK,Alaska,Scammon Bay,SCM
+AK,Alaska,Selawik,WLK
+AK,Alaska,Seldovia,SOV
+AK,Alaska,Shishmaref,SHH
+AK,Alaska,Shungnak,SHG
+AK,Alaska,Sitka,SIT
+AK,Alaska,Skagway,SGY
+AK,Alaska,St Mary's,KSM
+AK,Alaska,St Paul Island,SNP
+AK,Alaska,Stebbins,WBB
+AK,Alaska,Tanana,TAL
+AK,Alaska,Thorne Bay,KTB
+AK,Alaska,Togiak Village,TOG
+AK,Alaska,Toksook Bay,OOK
+AK,Alaska,Tuluksak,TLT
+AK,Alaska,Tuntutuliak,A61
+AK,Alaska,Unalakleet,UNK
+AK,Alaska,Unalaska,DUT
+AK,Alaska,Valdez,VDZ
+AK,Alaska,Wainwright,AWI
+AK,Alaska,Wrangell,WRG
+AK,Alaska,Yakutat,YAK
+AL,Alabama,Anniston,ANB
+AL,Alabama,Birmingham,BHM
+AL,Alabama,Dothan,DHN
+AL,Alabama,Huntsville,HSV
+AL,Alabama,Mobile,MOB
+AL,Alabama,Montgomery,MGM
+AL,Alabama,Muscle Shoals,MSL
+AL,Alabama,Talladega,ASN
+AL,Alabama,Tuscaloosa,TCL
+AR,Arkansas,Fayetteville,FYV
+AR,Arkansas,Fayetteville / Springdale,XNA
+AR,Arkansas,Fort Smith,FSM
+AR,Arkansas,Harrison,HRO
+AR,Arkansas,Hot Springs,HOT
+AR,Arkansas,Jonesboro,JBR
+AR,Arkansas,Little Rock,LIT
+AR,Arkansas,Mountain Home,BPK
+AR,Arkansas,Texarkana,TXK
+AZ,Arizona,Bullhead City,IFP
+AZ,Arizona,Flagstaff,FLG
+AZ,Arizona,Fort Huachuca / Sierra Vista,FHU
+AZ,Arizona,Goodyear,GYR
+AZ,Arizona,Grand Canyon,GCN
+AZ,Arizona,Kingman,IGM
+AZ,Arizona,Lake Havasu City,HII
+AZ,Arizona,Marana,MZJ
+AZ,Arizona,Mesa,IWA
+AZ,Arizona,Page,PGA
+AZ,Arizona,Peach Springs,1G4
+AZ,Arizona,Phoenix,DVT
+AZ,Arizona,Phoenix,PHX
+AZ,Arizona,Prescott,PRC
+AZ,Arizona,Show Low,SOW
+AZ,Arizona,Tucson,TUS
+AZ,Arizona,Yuma,YUM
+CA,California,Arcata/Eureka,ACV
+CA,California,Bakersfield,BFL
+CA,California,Burbank,BUR
+CA,California,Carlsbad,CRQ
+CA,California,Chico,CIC
+CA,California,Concord,CCR
+CA,California,Crescent City,CEC
+CA,California,Fresno,FAT
+CA,California,Imperial,IPL
+CA,California,Inyokern,IYK
+CA,California,Long Beach,LGB
+CA,California,Los Angeles,LAX
+CA,California,Mammoth Lakes,MMH
+CA,California,Merced,MCE
+CA,California,Modesto,MOD
+CA,California,Monterey,MRY
+CA,California,Oakland,OAK
+CA,California,Ontario,ONT
+CA,California,Orange County,SNA
+CA,California,Oxnard,OXR
+CA,California,Palm Springs,PSP
+CA,California,Palmdale,PMD
+CA,California,Paso Robles,PRB
+CA,California,Redding,RDD
+CA,California,Sacramento,SMF
+CA,California,Sacramento,MCC
+CA,California,San Bernardino,SBD
+CA,California,San Diego,SAN
+CA,California,San Francisco,SFO
+CA,California,San Jose,SJC
+CA,California,San Luis Obispo,SBP
+CA,California,Santa Barbara,SBA
+CA,California,Santa Maria,SMX
+CA,California,Santa Rosa,STS
+CA,California,South Lake Tahoe,TVL
+CA,California,Stockton,SCK
+CA,California,Victorville,VCV
+CA,California,Visalia,VIS
+CO,Colorado,Alamosa,ALS
+CO,Colorado,Aspen,ASE
+CO,Colorado,Colorado Springs,COS
+CO,Colorado,Cortez,CEZ
+CO,Colorado,Denver,DEN
+CO,Colorado,Durango,DRO
+CO,Colorado,Eagle,EGE
+CO,Colorado,Fort Collins / Loveland,FNL
+CO,Colorado,Grand Junction,GJT
+CO,Colorado,Gunnison,GUC
+CO,Colorado,Hayden,HDN
+CO,Colorado,Lamar,LAA
+CO,Colorado,Montrose,MTJ
+CO,Colorado,Pueblo,PUB
+CO,Colorado,Telluride,TEX
+CT,Connecticut,Bridgeport,BDR
+CT,Connecticut,Danbury,DXR
+CT,Connecticut,Groton (New London),GON
+CT,Connecticut,Hartford,HFD
+CT,Connecticut,New Haven,HVN
+CT,Connecticut,Oxford,OXC
+CT,Connecticut,Windsor Locks,BDL
+DC,District of Columbia,Washington,IAD
+DC,District of Columbia,Washington,DCA
+DE,Delaware,Georgetown,GED
+DE,Delaware,Wilmington,ILG
+FL,Florida,Daytona Beach,DAB
+FL,Florida,Fort Lauderdale,FLL
+FL,Florida,Fort Myers,RSW
+FL,Florida,Gainesville,GNV
+FL,Florida,Jacksonville,JAX
+FL,Florida,Jacksonville,VQQ
+FL,Florida,Key West,EYW
+FL,Florida,Lakeland,LAL
+FL,Florida,Marathon,MTH
+FL,Florida,Melbourne,MLB
+FL,Florida,Miami,MIA
+FL,Florida,Miami,X44
+FL,Florida,Naples,APF
+FL,Florida,Ocala,OCF
+FL,Florida,Orlando,MCO
+FL,Florida,Panama City,PFN
+FL,Florida,Pensacola,PNS
+FL,Florida,Punta Gorda,PGD
+FL,Florida,Saint Petersburg,PIE
+FL,Florida,Sanford,SFB
+FL,Florida,Sarasota,SRQ
+FL,Florida,St Augustine,SGJ
+FL,Florida,Tallahassee,TLH
+FL,Florida,Tampa,TPA
+FL,Florida,Titusville,TIX
+FL,Florida,Valparaiso,VPS
+FL,Florida,Vero Beach,VRB
+FL,Florida,West Palm Beach,PBI
+GA,Georgia,Albany,ABY
+GA,Georgia,Athens,AHN
+GA,Georgia,Atlanta,ATL
+GA,Georgia,Augusta,AGS
+GA,Georgia,Brunswick,BQK
+GA,Georgia,Columbus,CSG
+GA,Georgia,Macon,MCN
+GA,Georgia,Rome,RMG
+GA,Georgia,Savannah,SAV
+GA,Georgia,Valdosta,VLD
+HI,Hawaii,Hana,HNM
+HI,Hawaii,Hilo,ITO
+HI,Hawaii,Honolulu,HNL
+HI,Hawaii,Kahului,OGG
+HI,Hawaii,Kamuela,MUE
+HI,Hawaii,Kaunakakai,MKK
+HI,Hawaii,Keahole,KOA
+HI,Hawaii,Lanai City,LNY
+HI,Hawaii,Lihue,LIH
+IA,Iowa,Burlington,BRL
+IA,Iowa,Cedar Rapids,CID
+IA,Iowa,Clinton,CWI
+IA,Iowa,Des Moines,DSM
+IA,Iowa,Dubuque,DBQ
+IA,Iowa,Fort Dodge,FOD
+IA,Iowa,Mason City,MCW
+IA,Iowa,Ottumwa,OTM
+IA,Iowa,Sioux City,SUX
+IA,Iowa,Waterloo,ALO
+ID,Idaho,Boise,BOI
+ID,Idaho,Coeur D'alene,COE
+ID,Idaho,Hailey,SUN
+ID,Idaho,Idaho Falls,IDA
+ID,Idaho,Lewiston,LWS
+ID,Idaho,Pocatello,PIH
+ID,Idaho,Twin Falls,TWF
+IL,Illinois,Alton/St Louis,ALN
+IL,Illinois,Belleville,BLV
+IL,Illinois,Bloomington,BMI
+IL,Illinois,Carbondale / Murphysboro,MDH
+IL,Illinois,Champaign,CMI
+IL,Illinois,Chicago,MDW
+IL,Illinois,Chicago,ORD
+IL,Illinois,Chicago,CGX
+IL,Illinois,Danville,DNV
+IL,Illinois,Decatur,DEC
+IL,Illinois,Marion,MWA
+IL,Illinois,Mattoon/Charleston,MTO
+IL,Illinois,Moline,MLI
+IL,Illinois,Mount Vernon,MVN
+IL,Illinois,Peoria,PIA
+IL,Illinois,Quincy,UIN
+IL,Illinois,Rockford,RFD
+IL,Illinois,Springfield,SPI
+IL,Illinois,Sterling/Rockfalls,SQI
+IN,Indiana,Anderson,AID
+IN,Indiana,Bloomington,BMG
+IN,Indiana,Columbus,BAK
+IN,Indiana,Elkhart,EKM
+IN,Indiana,Evansville,EVV
+IN,Indiana,Fort Wayne,FWA
+IN,Indiana,Gary,GYY
+IN,Indiana,Indianapolis,IND
+IN,Indiana,Indianapolis,MQJ
+IN,Indiana,Lafayette,LAF
+IN,Indiana,Muncie,MIE
+IN,Indiana,South Bend,SBN
+IN,Indiana,Terre Haute,HUF
+IN,Indiana,Valparaiso,VPZ
+KS,Kansas,Dodge City,DDC
+KS,Kansas,Garden City,GCK
+KS,Kansas,Goodland,GLD
+KS,Kansas,Great Bend,GBD
+KS,Kansas,Hays,HYS
+KS,Kansas,Hutchinson,HUT
+KS,Kansas,Liberal,LBL
+KS,Kansas,Manhattan,MHK
+KS,Kansas,Olathe,IXD
+KS,Kansas,Salina,SLN
+KS,Kansas,Topeka,FOE
+KS,Kansas,Wichita,ICT
+KY,Kentucky,Bowling Green,BWG
+KY,Kentucky,Lexington,LEX
+KY,Kentucky,Louisville,SDF
+KY,Kentucky,Owensboro,OWB
+KY,Kentucky,Paducah,PAH
+LA,Louisiana,Alexandria,AEX
+LA,Louisiana,Alexandria,ESF
+LA,Louisiana,Baton Rouge,BTR
+LA,Louisiana,Lake Charles,LCH
+LA,Louisiana,Lafayette,LFT
+LA,Louisiana,Monroe,MLU
+LA,Louisiana,New Orleans,MSY
+LA,Louisiana,New Orleans,NEW
+LA,Louisiana,Shreveport,SHV
+LA,Louisiana,"Tallulah/Vicksburg, Mississippi",TVR
+MA,Massachusetts,Bedford,BED
+MA,Massachusetts,Boston,BOS
+MA,Massachusetts,Hyannis,HYA
+MA,Massachusetts,Nantucket,ACK
+MA,Massachusetts,New Bedford,EWB
+MA,Massachusetts,Provincetown,PVC
+MA,Massachusetts,Springfield/Chicopee,CEF
+MA,Massachusetts,Vineyard Haven,MVY
+MA,Massachusetts,Westfield/Springfield,BAF
+MA,Massachusetts,Worcester,ORH
+MD,Maryland,BWI Airport,BWI
+MD,Maryland,Hagerstown,HGR
+MD,Maryland,Salisbury,SBY
+ME,Maine,Augusta,AUG
+ME,Maine,Bangor,BGR
+ME,Maine,Bar Harbor,BHB
+ME,Maine,Portland,PWM
+ME,Maine,Presque Isle,PQI
+ME,Maine,Rockland,RKD
+MI,Michigan,Alpena,APN
+MI,Michigan,Battle Creek,BTL
+MI,Michigan,Bellaire,ACB
+MI,Michigan,Benton Harbor,BEH
+MI,Michigan,Charlevoix,CVX
+MI,Michigan,Detroit,DTW
+MI,Michigan,Detroit,DET
+MI,Michigan,Escanaba,ESC
+MI,Michigan,Flint,FNT
+MI,Michigan,Gaylord,GLR
+MI,Michigan,Grand Rapids,GRR
+MI,Michigan,Hancock,CMX
+MI,Michigan,Iron Mountain / Kingsford,IMT
+MI,Michigan,Ironwood,IWD
+MI,Michigan,Jackson,JXN
+MI,Michigan,Kalamazoo,AZO
+MI,Michigan,Lansing,LAN
+MI,Michigan,Manistee,MBL
+MI,Michigan,Marquette,SAW
+MI,Michigan,Menominee,MNM
+MI,Michigan,Muskegon,MKG
+MI,Michigan,Pellston,PLN
+MI,Michigan,Pontiac,PTK
+MI,Michigan,Saginaw,MBS
+MI,Michigan,Sault Ste Marie,CIU
+MI,Michigan,Traverse City,TVC
+MN,Minnesota,Alexandria,AXN
+MN,Minnesota,Baudette,BDE
+MN,Minnesota,Bemidji,BJI
+MN,Minnesota,Brainerd,BRD
+MN,Minnesota,Duluth,DLH
+MN,Minnesota,Ely,ELO
+MN,Minnesota,Fairmont,FRM
+MN,Minnesota,Grand Rapids,GPZ
+MN,Minnesota,Hibbing,HIB
+MN,Minnesota,International Falls,INL
+MN,Minnesota,Mankato,MKT
+MN,Minnesota,Minneapolis,MSP
+MN,Minnesota,Rochester,RST
+MN,Minnesota,St Cloud,STC
+MN,Minnesota,St Paul,STP
+MN,Minnesota,Thief River Falls,TVF
+MN,Minnesota,Willmar,ILL
+MN,Minnesota,Worthington,OTG
+MO,Missouri,Cape Girardeau,CGI
+MO,Missouri,Columbia,COU
+MO,Missouri,Fort Leonard Wood,TBN
+MO,Missouri,Jefferson City,JEF
+MO,Missouri,Joplin,JLN
+MO,Missouri,Kaiser Lake Ozark,AIZ
+MO,Missouri,Kansas City,MCI
+MO,Missouri,Kansas City,MKC
+MO,Missouri,Kirksville,IRK
+MO,Missouri,Point Lookout,PLK
+MO,Missouri,Saint Louis,STL
+MO,Missouri,Springfield,SGF
+MO,Missouri,St Joseph,STJ
+MO,Missouri,St Louis,SUS
+MS,Mississippi,Columbus,GTR
+MS,Mississippi,Greenville,GLH
+MS,Mississippi,Gulfport,GPT
+MS,Mississippi,Hattiesburg / Laurel,PIB
+MS,Mississippi,Jackson,JAN
+MS,Mississippi,Jackson,HKS
+MS,Mississippi,Meridian,MEI
+MS,Mississippi,Oxford,UOX
+MS,Mississippi,Pascagoula,PQL
+MS,Mississippi,Tupelo,TUP
+MT,Montana,Billings,BIL
+MT,Montana,Bozeman,BZN
+MT,Montana,Butte,BTM
+MT,Montana,Glasgow,GGW
+MT,Montana,Great Falls,GTF
+MT,Montana,Helena,HLN
+MT,Montana,Kalispell,GPI
+MT,Montana,Missoula,MSO
+MT,Montana,Sidney,SDY
+MT,Montana,West Yellowstone,WYS
+NC,North Carolina,Asheville,AVL
+NC,North Carolina,Charlotte,CLT
+NC,North Carolina,Fayetteville,FAY
+NC,North Carolina,Greensboro,GSO
+NC,North Carolina,Greenville,PGV
+NC,North Carolina,Hickory,HKY
+NC,North Carolina,Jacksonville,OAJ
+NC,North Carolina,Kinston,ISO
+NC,North Carolina,Manteo,MQI
+NC,North Carolina,New Bern,EWN
+NC,North Carolina,Pinehurst/Southern Pines,SOP
+NC,North Carolina,Rdu Airport,RDU
+NC,North Carolina,Rocky Mount,RWI
+NC,North Carolina,Wilmington,ILM
+NC,North Carolina,Winston Salem,INT
+ND,North Dakota,Bismarck,BIS
+ND,North Dakota,Devils Lake,DVL
+ND,North Dakota,Dickinson,DIK
+ND,North Dakota,Fargo,FAR
+ND,North Dakota,Grand Forks,GFK
+ND,North Dakota,Jamestown,JMS
+ND,North Dakota,Minot,MOT
+ND,North Dakota,Williston,ISN
+NE,Nebraska,Alliance,AIA
+NE,Nebraska,Grand Island,GRI
+NE,Nebraska,Kearney,EAR
+NE,Nebraska,Lincoln,LNK
+NE,Nebraska,Mc Cook,MCK
+NE,Nebraska,Norfolk,OFK
+NE,Nebraska,North Platte,LBF
+NE,Nebraska,Omaha,OMA
+NE,Nebraska,Scottsbluff,BFF
+NH,New Hampshire,Keene,EEN
+NH,New Hampshire,Lebanon,LEB
+NH,New Hampshire,Manchester,MHT
+NH,New Hampshire,Portsmouth,PSM
+NJ,New Jersey,Atlantic City,AIY
+NJ,New Jersey,Belmar/Farmingdale,BLM
+NJ,New Jersey,Caldwell,CDW
+NJ,New Jersey,Egg Harbor Township,ACY
+NJ,New Jersey,Millville,MIV
+NJ,New Jersey,Morristown,MMU
+NJ,New Jersey,Newark,EWR
+NJ,New Jersey,Teterboro,TEB
+NJ,New Jersey,Toms River,MJX
+NJ,New Jersey,Trenton,TTN
+NJ,New Jersey,Wildwood,WWD
+NM,New Mexico,Alamogordo,ALM
+NM,New Mexico,Albuquerque,ABQ
+NM,New Mexico,Carlsbad,CNM
+NM,New Mexico,Farmington,FMN
+NM,New Mexico,Gallup,GUP
+NM,New Mexico,Hobbs,HOB
+NM,New Mexico,Las Cruces,LRU
+NM,New Mexico,Roswell,ROW
+NM,New Mexico,Ruidoso,SRR
+NM,New Mexico,Santa Fe,SAF
+NM,New Mexico,Silver City,SVC
+NM,New Mexico,Taos,SKX
+NV,Nevada,Elko,EKO
+NV,Nevada,Ely,ELY
+NV,Nevada,Las Vegas,LAS
+NV,Nevada,Las Vegas,VGT
+NV,Nevada,Las Vegas,HND
+NV,Nevada,Reno,RNO
+NY,New York,Albany,ALB
+NY,New York,Binghamton,BGM
+NY,New York,Buffalo,BUF
+NY,New York,Elmira / Corning,ELM
+NY,New York,Farmingdale,FRG
+NY,New York,Glens Falls,GFL
+NY,New York,Islip,ISP
+NY,New York,Ithaca,ITH
+NY,New York,Jamestown,JHW
+NY,New York,Massena,MSS
+NY,New York,Monticello,MSV
+NY,New York,New York,JFK
+NY,New York,New York,LGA
+NY,New York,New York,JRB
+NY,New York,Newburgh,SWF
+NY,New York,Ogdensburg,OGS
+NY,New York,Plattsburgh,PLB
+NY,New York,Poughkeepsie,POU
+NY,New York,Rochester,ROC
+NY,New York,Rome,RME
+NY,New York,Saranac Lake,SLK
+NY,New York,Syracuse,SYR
+NY,New York,Utica,UCA
+NY,New York,Watertown,ART
+NY,New York,White Plains,HPN
+OH,Ohio,Cincinnati,CVG
+OH,Ohio,Cincinnati,LUK
+OH,Ohio,Cleveland,CLE
+OH,Ohio,Cleveland,BKL
+OH,Ohio,Cleveland,CGF
+OH,Ohio,Columbus,CMH
+OH,Ohio,Columbus,LCK
+OH,Ohio,Columbus,OSU
+OH,Ohio,Dayton,DAY
+OH,Ohio,Lorain/Elyria,LPR
+OH,Ohio,Mansfield,MFD
+OH,Ohio,Middle Bass,3T7
+OH,Ohio,North Canton,CAK
+OH,Ohio,Port Clinton,PCW
+OH,Ohio,Put - in - Bay,3W2
+OH,Ohio,Springfield,SGH
+OH,Ohio,Toledo,TOL
+OH,Ohio,Youngstown,YNG
+OK,Oklahoma,Enid,WDG
+OK,Oklahoma,Lawton,LAW
+OK,Oklahoma,Oklahoma City,OKC
+OK,Oklahoma,Ponca City,PNC
+OK,Oklahoma,Stillwater,SWO
+OK,Oklahoma,Tulsa,TUL
+OR,Oregon,Astoria,AST
+OR,Oregon,Corvallis,CVO
+OR,Oregon,Eugene,EUG
+OR,Oregon,Klamath Falls,LMT
+OR,Oregon,Mc Minnville,MMV
+OR,Oregon,Medford,MFR
+OR,Oregon,Newport,ONP
+OR,Oregon,North Bend,OTH
+OR,Oregon,Pendleton,PDT
+OR,Oregon,Portland,PDX
+OR,Oregon,Redmond,RDM
+OR,Oregon,Salem,SLE
+PA,Pennsylvania,Allentown,ABE
+PA,Pennsylvania,Altoona,AOO
+PA,Pennsylvania,Avoca,AVP
+PA,Pennsylvania,Bradford,BFD
+PA,Pennsylvania,Du Bois,DUJ
+PA,Pennsylvania,Erie,ERI
+PA,Pennsylvania,Franklin,FKL
+PA,Pennsylvania,Harrisburg,MDT
+PA,Pennsylvania,Johnstown,JST
+PA,Pennsylvania,Lancaster,LNS
+PA,Pennsylvania,Latrobe,LBE
+PA,Pennsylvania,Philadelphia,PHL
+PA,Pennsylvania,Pittsburgh,PIT
+PA,Pennsylvania,Pittsburgh,AGC
+PA,Pennsylvania,Reading,RDG
+PA,Pennsylvania,State College,UNV
+PA,Pennsylvania,Williamsport,IPT
+RI,Rhode Island,Block Island,BID
+RI,Rhode Island,Newport,UUU
+RI,Rhode Island,North Kingstown,OQU
+RI,Rhode Island,Pawtucket,SFZ
+RI,Rhode Island,Providence,PVD
+RI,Rhode Island,Westerly,WST
+SC,South Carolina,Anderson,AND
+SC,South Carolina,Charleston,CHS
+SC,South Carolina,Columbia,CAE
+SC,South Carolina,Florence,FLO
+SC,South Carolina,Greenville,GSP
+SC,South Carolina,Greenville,GYH
+SC,South Carolina,Hilton Head Island,HXD
+SC,South Carolina,Myrtle Beach,MYR
+SD,South Dakota,Aberdeen,ABR
+SD,South Dakota,Brookings,BKX
+SD,South Dakota,Huron,HON
+SD,South Dakota,Mitchell,MHE
+SD,South Dakota,Pierre,PIR
+SD,South Dakota,Rapid City,RAP
+SD,South Dakota,Sioux Falls,FSD
+SD,South Dakota,Watertown,ATY
+SD,South Dakota,Yankton,YKN
+TN,Tennessee,Blountville,TRI
+TN,Tennessee,Chattanooga,CHA
+TN,Tennessee,Jackson,MKL
+TN,Tennessee,Knoxville,TYS
+TN,Tennessee,Memphis,MEM
+TN,Tennessee,Millington,NQA
+TN,Tennessee,Nashville,BNA
+TN,Tennessee,Smyrna,MQY
+TX,Texas,Abilene,ABI
+TX,Texas,Amarillo,AMA
+TX,Texas,Angleton/Lake Jackson,LBX
+TX,Texas,Austin,AUS
+TX,Texas,Beaumont / Port Arthur,BPT
+TX,Texas,Brownsville,BRO
+TX,Texas,College Station,CLL
+TX,Texas,Corpus Christi,CRP
+TX,Texas,Dallas,DAL
+TX,Texas,Dallas,DFW
+TX,Texas,Del Rio,DRT
+TX,Texas,El Paso,ELP
+TX,Texas,Fort Hood / Killeen,GRK
+TX,Texas,Fort Worth,FTW
+TX,Texas,Galveston,GLS
+TX,Texas,Harlingen,HRL
+TX,Texas,Houston,EFD
+TX,Texas,Houston,HOU
+TX,Texas,Houston,IAH
+TX,Texas,Killeen,ILE
+TX,Texas,Laredo,LRD
+TX,Texas,Longview,GGG
+TX,Texas,Lubbock,LBB
+TX,Texas,Mcallen,MFE
+TX,Texas,Midland,MAF
+TX,Texas,San Angelo,SJT
+TX,Texas,San Antonio,SAT
+TX,Texas,Temple,TPL
+TX,Texas,Tyler,TYR
+TX,Texas,Victoria,VCT
+TX,Texas,Waco,ACT
+TX,Texas,Wichita Falls,SPS
+UT,Utah,Bryce Canyon,BCE
+UT,Utah,Cedar City,CDC
+UT,Utah,Moab,CNY
+UT,Utah,Ogden,OGD
+UT,Utah,Provo,PVU
+UT,Utah,Salt Lake City,SLC
+UT,Utah,St George,SGU
+VA,Virginia,Charlottesville,CHO
+VA,Virginia,Danville,DAN
+VA,Virginia,Harrisonburg,SHD
+VA,Virginia,Lynchburg,LYH
+VA,Virginia,Newport News,PHF
+VA,Virginia,Norfolk,ORF
+VA,Virginia,Richmond,RIC
+VA,Virginia,Roanoke,ROA
+VT,Vermont,Barre/Montpelier,MPV
+VT,Vermont,Bennington,DDH
+VT,Vermont,Morrisville,MVL
+VT,Vermont,Newport,EFK
+VT,Vermont,Rutland,RUT
+VT,Vermont,South Burlington,BTV
+WA,Washington,Anacortes,74S
+WA,Washington,Bellingham,BLI
+WA,Washington,Bremerton,PWT
+WA,Washington,Eastsound,ORS
+WA,Washington,Everett,PAE
+WA,Washington,Friday Harbor,FHR
+WA,Washington,Moses Lake,MWH
+WA,Washington,Olympia,OLM
+WA,Washington,Pasco,PSC
+WA,Washington,Port Angeles,CLM
+WA,Washington,"Pullman / Moscow, ID",PUW
+WA,Washington,Seattle,SEA
+WA,Washington,Seattle,BFI
+WA,Washington,Spokane,GEG
+WA,Washington,Walla Walla,ALW
+WA,Washington,Wenatchee,EAT
+WA,Washington,Yakima,YKM
+WI,Wisconsin,Appleton,ATW
+WI,Wisconsin,Eau Claire,EAU
+WI,Wisconsin,Green Bay,GRB
+WI,Wisconsin,Janesville,JVL
+WI,Wisconsin,Kenosha,ENW
+WI,Wisconsin,La Crosse,LSE
+WI,Wisconsin,Madison,MSN
+WI,Wisconsin,Milwaukee,MKE
+WI,Wisconsin,Mosinee,CWA
+WI,Wisconsin,Oshkosh,OSH
+WI,Wisconsin,Rhinelander,RHI
+WV,West Virginia,Beckley,BKW
+WV,West Virginia,Charleston,CRW
+WV,West Virginia,Clarksburg,CKB
+WV,West Virginia,Huntington,HTS
+WV,West Virginia,Lewisburg,LWB
+WV,West Virginia,Morgantown,MGW
+WV,West Virginia,Parkersburg,PKB
+WY,Wyoming,Casper,CPR
+WY,Wyoming,Cheyenne,CYS
+WY,Wyoming,Cody,COD
+WY,Wyoming,Gillette,GCC
+WY,Wyoming,Jackson,JAC
+WY,Wyoming,Laramie,LAR
+WY,Wyoming,Riverton,RIW
+WY,Wyoming,Rock Springs,RKS
+WY,Wyoming,Sheridan,SHR
+WY,Wyoming,Worland,WRL
